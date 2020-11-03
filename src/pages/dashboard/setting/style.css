@@ -1,0 +1,54 @@
+
+
+.menubar{
+    border-right: 1px solid #e6e6e6;
+    
+   
+    font-family: Roboto,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;
+    font-size: 1rem;
+   
+   
+    color: #212529;
+    text-align: left;
+}
+
+.el-menu{
+   
+    list-style: none;
+    position: relative;
+    margin: 0;
+    padding-left: 0;
+    background-color: #fff;
+    line-height: 56px;
+    font-size: 16px;
+    opacity: 0.8;
+    list-style: none;
+    
+}
+
+a{
+    text-decoration: none;
+    color: #303133;
+}
+.el-menu-item {  
+    position: relative;   
+    padding:0 20px;
+    list-style: none;
+}
+
+
+
+span{
+    padding-left: 8px;
+}
+
+
+.el-menu-item:focus, .el-menu-item:hover {
+    outline: none;
+    background-color: #ecf5ff;
+}
+
+.settingdashboard{
+    border-right: 1px solid #e6e6e6;
+    background-color: #212529;
+}
